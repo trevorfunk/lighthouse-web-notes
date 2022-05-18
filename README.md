@@ -1,4 +1,4 @@
-# Trevor Funk's Notes
+# [Trevor Funk's](https://github.com/trevorfunk) Notes
 
 ## Summary
 
